@@ -3,7 +3,7 @@
 The **server** half of a multiplayer **Caro (Gomoku / Five-in-a-row)** game written in Java.
 It accepts connections from game clients over TCP, handles accounts, rooms, friends, rankings and chat, and stores everything in a **MySQL** database. It also ships with a small **Admin panel** (desktop window) for broadcasting announcements, warning players and banning/unbanning them.
 
-> 👉 You also need the client application to actually play: **Caro_Client** (separate repository).
+> 👉 You also need the client application to actually play: **Caro_Client** (https://github.com/NhuNguyen0101/Caro-Client).
 > The server must be running **before** any client is started.
 
 ---
